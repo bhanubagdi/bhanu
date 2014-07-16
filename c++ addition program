@@ -8,5 +8,6 @@ cout<<"\nEnter 2nd no:";
 cin>>b;
 cout<<"\nAddition is:";
 sum=a+b;
-return(sum);
+cout<<sum;
+return(0);
 }
