@@ -1,0 +1,12 @@
+#include<iostream.h>
+int main()
+{
+int a,b,sum;
+cout<<"\nEnter 1st no:";
+cin>>a;
+cout<<"\nEnter 2nd no:";
+cin>>b;
+cout<<"\nAddition is:";
+sum=a+b;
+return(sum);
+}
